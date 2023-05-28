@@ -17,3 +17,5 @@
 10. git push origin upload_logo
 11. git checkout master
 12. git pull origin upload_logo
+
+# REPO_URL <https://github.com/Rii-C/blackbird>
